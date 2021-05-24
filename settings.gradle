@@ -1,0 +1,2 @@
+rootProject.name = "OpenGLESDrawingBasics"
+include ':app'
