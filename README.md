@@ -1,5 +1,5 @@
 # OpenGLSampleCodes1
-In this repository, the code for drawing a simple shape with colors have been presented.<br>
+In this repository, the code for drawing a <strong>simple shape with colors</strong> have been presented.<br>
 Code Snippets from the class TwoDimentionalObject.java can be utilized for future uses
 
 The work flow of the code is as follows:
